@@ -1,3 +1,4 @@
 markdown: redcarpet
 pygments: true
+permalinks: none
 exclude: [".rvmrc", ".rbenv-version", ".gitignore", "README.md", "Rakefile", "changelog.md", "Gemfile", "Gemfile.lock", "Procfile", "vendor"]
