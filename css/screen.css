@@ -96,6 +96,7 @@ ul.posts {
   text-align: justify;
   margin: 3em auto 2em auto;
   line-height: 1.5em;
+  padding-bottom:64px;
 }
 
 .title {
@@ -162,7 +163,6 @@ ul.posts {
 
 .post {
   margin-top:64px;
-  margin-bottom:64px;
 }
 
   /* standard */
