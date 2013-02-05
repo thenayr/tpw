@@ -166,6 +166,11 @@ ul.posts {
 }
 
   /* standard */
+  .post .pic-title {
+    font: normal 14px menlo,'andale mono','courier new',sans-serif;
+    text-transform: lowercase;
+    text-align: center;
+  }
 
   .post pre {
     border: 1px solid #ddd;
