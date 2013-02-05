@@ -170,6 +170,7 @@ ul.posts {
     font: normal 14px menlo,'andale mono','courier new',sans-serif;
     text-transform: lowercase;
     text-align: center;
+    margin-bottom: 64px;
   }
 
   .post pre {
