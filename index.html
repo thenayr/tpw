@@ -7,7 +7,7 @@ title: iamnayr
   <p class="title">newest posts</p>
   <ul class="posts">
     {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a> &raquo; <img class="post-type" src="http://cdn.iamnayr.com/2013/02/{{ post.type }}.png" /></li>
       <div class="post">
       <p>{{ post.content }}</p>
       </div>
