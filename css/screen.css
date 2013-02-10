@@ -232,8 +232,16 @@ ul.posts {
   .post pre.terminal code {
     background-color: #333;
   }
+  .post .four h2 {
+    text-align:center;
+  }
   .post .four {
-    text-align: center;
+    text-align: initial;
+  }
+  .post .four  pre {
+    width: 400px;
+    margin: 0 auto;
+    line-height:14px;
   }
 
 #related {
